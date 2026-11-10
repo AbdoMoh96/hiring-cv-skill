@@ -1,0 +1,7 @@
+Set up the /hiring-panel skill for me: https://github.com/AbdoMoh96/hiring-cv-skill
+
+Do these in order and confirm each one before the next:
+1. Install this skill from the repo above. (If I prefer the plugin, the lines are /plugin marketplace add alexyc9381/hiring-panel-skill then /plugin install hiring-panel-skill@hiring-panel-skill. Tell me to type those if you cannot.)
+2. Confirm /hiring-panel works. I may need to open a new Claude Code session first so it picks it up.
+3. Tell me how to run it: put my resume in this folder and type /hiring-panel my-resume.pdf, or with a job: /hiring-panel my-resume.pdf for this job: [the posting]. Giving it the job is what lets it find missing skills.
+4. Remind me to turn on accept-edits mode (Shift+Tab) first, that one run is about eight sub-agent calls on my plan, and that it writes only to a .hiring-panel folder.
